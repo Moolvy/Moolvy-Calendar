@@ -1,6 +1,6 @@
 # 📅 Calendar App
 A beautiful, feature-rich Flutter calendar with local storage, themes & bilingual support. 
------------
+
 ✨ Features
 Feature
 Description
@@ -55,7 +55,7 @@ Yellow
 📌
 Other / Другое
 Grey. 
--------
+
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
 
