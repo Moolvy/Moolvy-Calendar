@@ -30,7 +30,8 @@ Swipe left or use the delete button with confirmation
 Clear limit with visual indicator
 💾 Persistent Storage
 Everything saved locally via shared_preferences
-🎨 Event Types
+
+# 🎨 Event Types
 Emoji
 Type
 Color
@@ -56,10 +57,10 @@ Yellow
 Other / Другое
 Grey. 
 
-📄 License
+# 📄 License
 Distributed under the MIT License. See LICENSE for more information.
-
 Made with ❤️ and Flutter
 ⭐ Star this repo if you found it useful!
+
 -------
 # Best regards,The Moolvy Team
