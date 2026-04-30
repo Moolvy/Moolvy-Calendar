@@ -1,5 +1,4 @@
-# 📅 Calendar App
-A beautiful, feature-rich Flutter calendar with local storage, themes & bilingual support. 
+# 📅 Calendar App A beautiful, feature-rich Flutter calendar with local storage, themes & bilingual support. 
 
 ✨ Features
 Feature
